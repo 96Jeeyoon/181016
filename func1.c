@@ -4,4 +4,5 @@
 void func1()
 {
 	printf("hi");
+	printf("i am hungry");
 }
